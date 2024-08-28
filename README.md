@@ -1,7 +1,8 @@
 # smart-cctv-tkinter
 This is a tkinter gui app for converting your normal laptop camera to smart camera.
 
-In the zip file you need the model.yml file to be present in the same directory as the main project folder wioth all the additional files which have their own purpose such as to identify,recod,monitor.
+In the zip file you need obtain the model.yml file which is created when your face recognition model is trained.
+In the current repository model.yml file is not present as you have to train it with your own data.
 
 
 you just need to run main.py file inorder to run full app 
